@@ -1,3 +1,5 @@
+BIN_DIR = ${DESTDIR}/usr/bin
+
 .PHONY: all clean
 all: lander
 
