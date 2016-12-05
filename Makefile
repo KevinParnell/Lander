@@ -9,4 +9,4 @@ install: lander
 	install -c -m 755 lander $(BIN_DIR)
 
 clean:
-	rm -f lander_game
+	rm -f lander
