@@ -5,6 +5,9 @@ CLI Top-Down Space Shooter
 
 Lander is a top-down shooter made in C++
 
+##Install
+If you're on Solus, just do sudo eopkg it lander
+
 ##CONTRIBUTORS
 Main Contributors:
 
