@@ -1,8 +1,8 @@
 .PHONY: all clean
-all: lander_game
+all: lander
 
-lander_game:
-	g++ lander.cpp -lncursesw -std=c++11 -pthread -o lander_game
+lander:
+	g++ lander.cpp -lncursesw -std=c++11 -pthread -o lander
 
 install: lander
 	mkdir -p ${BIN_DIR}
